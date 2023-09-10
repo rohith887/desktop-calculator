@@ -1,9 +1,10 @@
-##javascript-basic-calculator
+## javascript-basic-calculator
+
 JavaScript Calculator is used to perform mathematical operations like – Addition, Subtraction, Multiplication, Division, etc.
 and JavaScript are used to design the JavaScript Calculator. HTML is used to design the basic structure of the calculator. CSS styles are used to apply styles on the calculator and JavaScript is used to add the calculation functionality. Also, Math.js is used to evaluate the calculations.
 
 
-##overview
+## overview
 HTML Table is used to create a grid structure and <input type=”button”> adds the buttons on the grid.
 <input type=”text”> is used to add an input text field to display the expression.
 When the user clicks on the button, the button value will display on the input field.
